@@ -6,7 +6,7 @@ Built with **Laravel** (PHP) and **MySQL**, with a Blade + Vite frontend.
 - Book management: add, edit, delete, search
 - Member management: register, update, list
 - Loan management: borrow / return books, track due dates
-- *(add: authentication? roles? dashboard? — whatever you built)*
+
 
 ## Tech Stack
 
