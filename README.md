@@ -42,3 +42,12 @@ npm run dev
 
 php artisan serve
 ```
+
+#What I Learned
+    - Laravel MVC architecture and Eloquent relationships (books ↔ loans ↔ members)
+    
+    - Database migrations and seeding
+    
+    - Routing, controllers, and Blade templating
+    
+    - Handling CRUD with validation and form requests
